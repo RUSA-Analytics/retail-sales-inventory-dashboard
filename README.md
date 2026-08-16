@@ -4,7 +4,7 @@ An interactive retail analytics application built by RUSA Analytics to demonstra
 
 Live Demo
 
-🔗 https://rusa-analytics.github.io/retail-sales-inventory-dashboard/
+🔗 https://rusaanalytics.github.io/retail-sales-inventory-dashboard/
 
 Business Challenge
 
